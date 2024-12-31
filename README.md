@@ -1,3 +1,5 @@
+# Crypto API Analysis
+
 This project applies API data to analyze price shifts and real time supply data in top cryptocurrencies like Bitcoin, Ethereum, Tether USDt, and Solana across timeframes from 1 hour to 90 days. Discover market insights and get actionable recommendations to stay ahead in the game.
 
 ## Key Insights from time frames
